@@ -1,0 +1,4 @@
+git+git://github.com/aguinet/dotnetDeser@master#egg=dotnetDeser
+hexdump==3.3
+Pillow==6.2.0
+pycryptodome==3.9.0
