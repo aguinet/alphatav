@@ -9,6 +9,8 @@ The main scripts to use are:
 
 We demonstrate the usage of these scripts below with the files of the challenge.
 
+A blog post detailing the attack is available here: https://aguinet.github.io/blog/2022/01/30/decryption-ch.html
+
 ## Breaking the challenge
 
 Note: we call in the scripts "factor table" what I called in my explanations
